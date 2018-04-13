@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523592137 source:e:\usuarios\alumno\escritorio\tp_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1523591839 source:e:\usuarios\alumno\escritorio\tp_laboratorio1\funciones_operaciones.c
+	"Operaciones.h"
+
+1523591839 e:\usuarios\alumno\escritorio\tp_laboratorio1\operaciones.h
+

@@ -16,7 +16,7 @@ int main()
 
     while(seguir=='s')
     {
-        printf("Trabajo Practico N°1 \n");
+        printf("Trabajo Practico NÂ°1 \n");
         printf("1- Ingresar 1er operando (A=x)\n");
         printf("2- Ingresar 2do operando (B=y)\n");
         printf("3- Calcular la suma (A+B)\n");
@@ -80,7 +80,7 @@ int main()
                 }
                 break;
             case 7:
-                if(factorial(numeroA,&resultadoFactorial)==0)//factorial !!!!!!!!!!!!!!!!!
+                if(factorial(numeroA,&resultadoFactorial)==0)//se factorea!
                 {
                     printf("El factorial es %d\n",resultadoFactorial);
                 }
@@ -90,7 +90,7 @@ int main()
                 }
                 break;
             case 8:
-                if(suma(numeroA,numeroB,&resultadoSuma)==0)//suma+++++++++++++++++
+                if(suma(numeroA,numeroB,&resultadoSuma)==0)//se suma!
                 {
                     printf("La suma es %d\n",resultadoSuma);
                 }
@@ -99,7 +99,7 @@ int main()
                     printf("La suma no esta en el rango admitido\n");
                 }
 
-                if(resta(numeroA,numeroB,&resultadoResta)==0)//resta---------------
+                if(resta(numeroA,numeroB,&resultadoResta)==0)//se resta!
                 {
                     printf("La resta es %d\n",resultadoResta);
                 }
@@ -108,7 +108,7 @@ int main()
                     printf("La resta no esta en el rango admitido\n");
                 }
 
-                if(division(numeroA,numeroB,&resultadoDivision)==0)//division /////////////
+                if(division(numeroA,numeroB,&resultadoDivision)==0)//se divide!
                 {
                     printf("La division es %.2f\n",resultadoDivision);
                 }
@@ -117,7 +117,7 @@ int main()
                     printf("El segundo numero no puede ser cero\n");
                 }
 
-                if(multiplicacion(numeroA,numeroB,&resultadoMultiplicacion)==0)//multiplicacion **********
+                if(multiplicacion(numeroA,numeroB,&resultadoMultiplicacion)==0)//se multiplica!
                 {
                     printf("La multiplicacion es %.d\n",resultadoMultiplicacion);
                 }
@@ -126,7 +126,7 @@ int main()
                     printf("La multiplicacion no esta en el rango admitido\n");
                 }
 
-                if(factorial(numeroA,&resultadoFactorial)==0)//factorial !!!!!!!!!!!!!!!!!
+                if(factorial(numeroA,&resultadoFactorial)==0)// verifica el factorial 
                 {
                     printf("El factorial es %.d\n",resultadoFactorial);
                 }
